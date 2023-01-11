@@ -14,7 +14,7 @@ A partir des relevés déjà réalisés en 2015 et 2016 :
 - Le score « Star Energy » est consultable sur le site : https://www.energystar.gov/buildings/benchmark/analyze_benchmarking_results 
 
 Voici le schéma descriptif des données :
-<img src="https://github.com/MayChoueib/Projet-Anticipez-la-consommation-electrique-et-l-emission-C02-de-batiments-Ville-de-Seattle/blob/main/schema_donnees.jpg" width="600" height="400" />
+<p align="center"><img src="https://github.com/MayChoueib/Projet-Anticipez-la-consommation-electrique-et-l-emission-C02-de-batiments-Ville-de-Seattle/blob/main/schema_donnees.jpg" width="600" height="400" /></p>
 
 ## Etapes du projet
 Le projet est découpé en deux parties :   
@@ -43,4 +43,4 @@ Notebook de modélisations avec des approches linéaires et non-linéaires afin 
 -	Prédictions sur les données de test     
 -	Feature importance et évaluation de l’intérêt du score « ENERGY STAR »    
 
-<p align="center"><img src="https://github.com/MayChoueib/Projet-Anticipez-la-consommation-electrique-et-l-emission-C02-de-batiments-Ville-de-Seattle/blob/main/FE_engyscore.jpg" width="700" height="600" /></p>
+<p align="center"><img src="https://github.com/MayChoueib/Projet-Anticipez-la-consommation-electrique-et-l-emission-C02-de-batiments-Ville-de-Seattle/blob/main/FE_engyscore.jpg" width="600" height="600" /></p>
