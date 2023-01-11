@@ -11,8 +11,10 @@ A partir des relevés déjà réalisés en 2015 et 2016 :
 ## Données
 - Les données (2015 et 2016) de la ville de Seattle sont à télécharger l’adresse : https://www.kaggle.com/city-of-seattle/sea-building-energy-benchmarking   
 - La description des variables est consultable sur la page :https://data.seattle.gov/dataset/2016-Building-Energy-Benchmarking/2bpz-gwpy  
-- Le score « Star Energy » est consultable sur le site : https://www.energystar.gov/buildings/benchmark/analyze_benchmarking_results  
-Voici le schéma descriptif des données : <img src="https://github.com/MayChoueib/Projet-Anticipez-la-consommation-electrique-et-l-emission-C02-de-batiments-Ville-de-Seattle/blob/main/schema_donnees.jpg" width="600" height="400" />
+- Le score « Star Energy » est consultable sur le site : https://www.energystar.gov/buildings/benchmark/analyze_benchmarking_results 
+
+Voici le schéma descriptif des données :
+<img src="https://github.com/MayChoueib/Projet-Anticipez-la-consommation-electrique-et-l-emission-C02-de-batiments-Ville-de-Seattle/blob/main/schema_donnees.jpg" width="600" height="400" />
 
 ## Etapes du projet
 Le projet est découpé en deux parties :   
@@ -27,8 +29,7 @@ Images : <img src="https://github.com/MayChoueib/Projet-Anticipez-la-consommatio
 #### 2. Notebook_Modelisation_Prediction_energie_gaz :
 Notebook de modélisations avec des approches linéaires et non-linéaires afin de prédire la consommation énergétique ainsi que les émissions des gaz à effet de serre des bâtiments non destinés à l’habitation (le CO2 est le principal gaz responsable de l'effet de serre). Les étapes sont :    
 -	Préparation des données (Séparation des données en données d’entrainement et de test, encodage et standardisation des variables catégorielles)    
--	Modélisation et évaluation : 
-  Entrainement de plusieurs modèles :     
+-	Modélisation et évaluation : Entrainement de plusieurs modèles :     
 •	Linear Regression     
 •	Ridge Regression   
 •	Lasso Regression    
