@@ -27,7 +27,8 @@ Images : <img src="https://github.com/MayChoueib/Projet-Anticipez-la-consommatio
 #### 2. Notebook_Modelisation_Prediction_energie_gaz :
 Notebook de modélisations avec des approches linéaires et non-linéaires afin de prédire la consommation énergétique ainsi que les émissions des gaz à effet de serre des bâtiments non destinés à l’habitation (le CO2 est le principal gaz responsable de l'effet de serre). Les étapes sont :    
 -	Préparation des données (Séparation des données en données d’entrainement et de test, encodage et standardisation des variables catégorielles)    
--	Modélisation et évaluation : Entrainement de plusieurs modèles :     
+-	Modélisation et évaluation : 
+  Entrainement de plusieurs modèles :     
 •	Linear Regression     
 •	Ridge Regression   
 •	Lasso Regression    
@@ -40,4 +41,4 @@ Notebook de modélisations avec des approches linéaires et non-linéaires afin 
 -	Prédictions sur les données de test     
 -	Feature importance et évaluation de l’intérêt du score « ENERGY STAR »    
 
-<img src="https://github.com/MayChoueib/Projet-Anticipez-la-consommation-electrique-et-l-emission-C02-de-batiments-Ville-de-Seattle/blob/main/FE_engyscore.jpg" width="600" height="400" />
+<img src="https://github.com/MayChoueib/Projet-Anticipez-la-consommation-electrique-et-l-emission-C02-de-batiments-Ville-de-Seattle/blob/main/FE_engyscore.jpg" width="600" height="600" />
