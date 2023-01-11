@@ -43,4 +43,4 @@ Notebook de modélisations avec des approches linéaires et non-linéaires afin 
 -	Prédictions sur les données de test     
 -	Feature importance et évaluation de l’intérêt du score « ENERGY STAR »    
 
-<img src="https://github.com/MayChoueib/Projet-Anticipez-la-consommation-electrique-et-l-emission-C02-de-batiments-Ville-de-Seattle/blob/main/FE_engyscore.jpg" width="700" height="600" />
+<p align="center"><img src="https://github.com/MayChoueib/Projet-Anticipez-la-consommation-electrique-et-l-emission-C02-de-batiments-Ville-de-Seattle/blob/main/FE_engyscore.jpg" width="700" height="600" /></p>
