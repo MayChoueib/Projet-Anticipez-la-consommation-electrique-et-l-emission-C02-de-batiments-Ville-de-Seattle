@@ -18,7 +18,7 @@ Voici le schéma descriptif des données :
 
 ## Etapes du projet
 Le projet est découpé en deux parties :   
-#### 1. Notebook_analyse_exploratoire :
+### 1. Notebook_analyse_exploratoire :
 Notebook de nettoyage et d’analyse exploratoire des données me permettant de déterminer les variables pertinentes pour la modélisation et les prédictions. Il contient :
 -	Nettoyage et visualisation des données
 -	Analyse des outliers
@@ -26,12 +26,12 @@ Notebook de nettoyage et d’analyse exploratoire des données me permettant de 
 -	Feature engineering
 
 <p align="center"><img src="https://github.com/MayChoueib/Projet-Anticipez-la-consommation-electrique-et-l-emission-C02-de-batiments-Ville-de-Seattle/blob/main/geo_bat.jpg" width="600" height="400" /></p>
-#### 2. Notebook_Modelisation_Prediction_energie_gaz :
-Notebook de modélisations avec des approches linéaires et non-linéaires afin de prédire la consommation énergétique ainsi que les émissions des gaz à effet de serre des bâtiments non destinés à l’habitation (le CO2 est le principal gaz responsable de l'effet de serre). Les étapes sont :        
--	Préparation des données (Séparation des données en données d’entrainement et de test, encodage et standardisation des variables catégorielles)        
--	Modélisation et évaluation :    
- Entrainement de plusieurs modèles :        
-•	Linear Regression        
+### 2. Notebook_Modelisation_Prediction_energie_gaz :       
+Notebook de modélisations avec des approches linéaires et non-linéaires afin de prédire la consommation énergétique ainsi que les émissions des gaz à effet de serre des bâtiments non destinés à l’habitation (le CO2 est le principal gaz responsable de l'effet de serre). Les étapes sont :           
+-	Préparation des données (Séparation des données en données d’entrainement et de test, encodage et standardisation des variables catégorielles)           
+-	Modélisation et évaluation :       
+ Entrainement de plusieurs modèles :             
+•	Linear Regression              
 •	Ridge Regression      
 •	Lasso Regression       
 •	ElasticNet Regression      
