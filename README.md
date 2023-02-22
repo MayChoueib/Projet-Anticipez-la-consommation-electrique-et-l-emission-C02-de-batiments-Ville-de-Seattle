@@ -9,7 +9,7 @@ A partir des relevés déjà réalisés en 2015 et 2016 :
 * Tenter de prédire les émissions de CO2 et la consommation totale d’énergie de bâtiments non destinés à l’habitation 
 * Evaluer l’intérêt du score « ENERGY STAR » pour la prédiction d’émissions 
 ## Données
-- Les données (2015 et 2016) de la ville de Seattle sont à télécharger l’adresse : https://www.kaggle.com/city-of-seattle/sea-building-energy-benchmarking   
+- Les données (2015 et 2016) de la ville de Seattle sont à télécharger à l’adresse : https://www.kaggle.com/city-of-seattle/sea-building-energy-benchmarking   
 - La description des variables est consultable sur la page :https://data.seattle.gov/dataset/2016-Building-Energy-Benchmarking/2bpz-gwpy  
 - Le score « Star Energy » est consultable sur le site : https://www.energystar.gov/buildings/benchmark/analyze_benchmarking_results 
 
